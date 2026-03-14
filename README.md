@@ -141,4 +141,4 @@ O relatório Excel contém duas abas:
 
 ---
 
-*Projeto desenvolvido por Austin | [LinkedIn](#) | [GitHub](#)*
+*Projeto desenvolvido por Austin | [LinkedIn](www.linkedin.com/in/austin-farias) | [GitHub](https://github.com/Austinmff)* 
