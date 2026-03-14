@@ -14,12 +14,14 @@
 > Nenhum dado real de agentes do mercado de energia, CNPJs, valores financeiros, resultados do MCP ou qualquer informação proveniente da CCEE, Secretaria da Fazenda ou qualquer órgão público foi utilizado, armazenado ou exposto neste projeto.
 >
 > A estrutura das planilhas (nomes de colunas e formato) foi reproduzida com base em relatórios de acesso público disponibilizados pela CCEE, conforme a **Lei de Acesso à Informação (Lei nº 12.527/2011)**. O tratamento e uso de dados pessoais segue os princípios da **Lei Geral de Proteção de Dados (Lei nº 13.709/2018 — LGPD)**.
+>
+> Este projeto é independente e não possui qualquer vínculo com a Câmara de Comercialização de Energia Elétrica (CCEE), com as Secretarias da Fazenda ou com quaisquer órgãos governamentais.
 
 ---
 
 ## Contexto e Problema
 
-Durante estágio no setor de fiscalização de energia de uma Secretaria da Fazenda estadual, identifiquei um gargalo operacional no processo de auditoria do Mercado de Curto Prazo (MCP):
+Inspirado por experiências profissionais e acadêmicas na área de fiscalização de energia, identifiquei um gargalo operacional no processo de auditoria do Mercado de Curto Prazo (MCP):
 
 Auditores precisavam, manualmente e agente por agente, acessar o sistema nacional da CCEE, extrair duas planilhas distintas — **CFZ004 (Consumo)** e **CFZ003 (Contabilização)** — cruzá-las e filtrar apenas os perfis com cargas no estado, para então extrair o **Resultado Final** financeiro proporcional àquelas cargas.
 
