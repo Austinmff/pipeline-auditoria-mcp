@@ -3,10 +3,6 @@ Pipeline de Auditoria Fiscal — Mercado de Curto Prazo (MCP)
 ============================================================
 
 Contexto:
-    Auditores fiscais da área de energia precisavam cruzar manualmente
-    duas planilhas do sistema nacional da CCEE, empresa por empresa,
-    para isolar os perfis de agentes com cargas em um estado específico
-    e extrair apenas o Resultado Final proporcional àquelas cargas.
 
     Este pipeline automatiza esse processo em três etapas (ETL):
     1. Extração das planilhas de Consumo e Contabilização
